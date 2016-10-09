@@ -4,7 +4,7 @@
   <groupId>com.thinknyx.app</groupId>
   <artifactId>first-app</artifactId>
   <packaging>jar</packaging>
-  <version>2.0</version>
+  <version>${version}</version>
   <name>first-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
